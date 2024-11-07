@@ -1,0 +1,2 @@
+# Exported functions
+exportPattern("^[[:alpha:]]+")
