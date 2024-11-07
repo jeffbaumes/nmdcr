@@ -12,5 +12,6 @@ RoxygenNote: 7.3.2
 Imports:
   httr,
   jsonlite,
-  dplyr
+  dplyr,
+  yaml
 URL: https://jeffbaumes.github.io/nmdcr/
