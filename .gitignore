@@ -5,4 +5,5 @@
 .DS_Store
 .quarto
 links.rds
+man
 docs
